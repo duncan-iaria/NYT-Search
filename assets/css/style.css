@@ -1,0 +1,8 @@
+.jumbotron {
+	background-color: navy;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	color: white;
+}
